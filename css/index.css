@@ -1,0 +1,31 @@
+.header_ul{
+    list-style-type: none;
+    margin-bottom: 40px;
+    overflow: hidden;
+}
+.header_logo{
+
+    float: left;
+    padding-top: 40px;
+}
+.header_li{
+    float: left;
+    padding-top: 50px; 
+    padding-left: 50px; 
+    
+}
+.searchIcon{
+    float: right;
+    margin-top: 60px; 
+}
+.header_li a{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    color: black;
+    text-decoration: none;
+  }
+.header_li a:hover{
+    background-color: rgba(1, 135, 244, 1);
+    color: white;
+  }
